@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mostafa Saied 👋
 
-<!--
-**MostafaSaied0/MostafaSaied0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Software Engineer with Great Ambition and a Passion for Learning
 
-Here are some ideas to get you started:
+From Cairo, Egypt 🇪🇬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have good experience in programming, especially in web development using the Spring Boot framework.
+
+📧 To mail me: [mostafasaied@email.com](mailto:mostafasaied@email.com)  
+🔗 How to communicate with me:  
+[LinkedIn](https://www.linkedin.com/in/your-profile)  
+[Facebook](https://www.facebook.com/your-profile)
+
+### 💻 My Top Programming Languages:
+- Java
+- JavaScript
+- C, C++
+
+### 🛠️ Languages and Tools:
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)

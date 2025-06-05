@@ -8,8 +8,8 @@ I have good experience in programming, especially in web development using the S
 
 📧 To mail me: [mostafasaied@email.com](mailto:mostafasaied@email.com)  
 🔗 How to communicate with me:  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Facebook](https://www.facebook.com/your-profile)
+[LinkedIn](www.linkedin.com/in/mustafa-saied-57306a223)  
+[Facebook](https://www.facebook.com/mostafa.saied.878451)
 
 ### 💻 My Top Programming Languages:
 - Java
